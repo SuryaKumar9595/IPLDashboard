@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.team-matches-container {
+  background-color: #1e293b;
+  color: #ffffff;
+  text-align: center;
+}
+
+.team-banner {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.latest-match {
+  margin-bottom: 20px;
+}
+
+.latest-match-title {
+  font-family: 'Bree Serif', serif;
+  font-size: 36px;
+}
+
+.match-details {
+  text-align: left;
+  padding: 10px;
+  background-color: #ffffff33;
+  border-radius: 5px;
+}
+
+.recent-matches-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.match-card {
+  margin: 10px;
+  background-color: #ffffff33;
+  border-radius: 5px;
+  overflow: hidden;
+  padding: 10px;
+}
+
+.match-card img {
+  width: 50px;
+  height: 50px;
+}
